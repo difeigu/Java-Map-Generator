@@ -1,5 +1,5 @@
 # Java-Map-Generator
-A high school project.
+I made it as a high school project.
 
 Instructions to use the program: 
   Download and open Map.jar file.
